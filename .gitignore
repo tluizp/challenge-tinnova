@@ -1,0 +1,5 @@
+# Ignorar pasta .idea (configurações da IDE)
+.idea/
+
+# Ignorar arquivos de compilação do Gradle
+.gradle/
